@@ -31,6 +31,7 @@ Detailed Course Curriculum for Front-End Training
     14. Web Storage in HTML5
     15. Application Cache in HTML5
     16. Build a task in HTML5
+
 2. CSS 3
     1. Introduction
     2. Styling - Basic
@@ -55,6 +56,7 @@ Detailed Course Curriculum for Front-End Training
         3. images
         4. videos
         5. frameworks
+
 3. Twitter Bootstrap
     1. Introduction
     2. Get Started
@@ -77,6 +79,7 @@ Detailed Course Curriculum for Front-End Training
     19. Progress Bars
     20. Helper Classes
     21. Miscellaneous
+
 4. Javascript
     1. Basics
         1. Introduction
@@ -156,6 +159,7 @@ Detailed Course Curriculum for Front-End Training
         6. Popup Alert
         7. Timing
         8. Cookies
+
 5. jQuery
     1. Overview
     2. Basics
@@ -172,6 +176,7 @@ Detailed Course Curriculum for Front-End Training
     13. Theming
     14. Utilities
     15. Plugins
+
 6. AngularJS
     1. Introduction
     2. Overview
@@ -194,9 +199,14 @@ Detailed Course Curriculum for Front-End Training
     19. Dependency Injection
     20. Custom Directives
     21. Internalization
+
 7. Yeoman
+
 8. Grunt
+
 9. Bower
+
 10. Jasmine
+
 11. Protractor
 
