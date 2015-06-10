@@ -1,0 +1,212 @@
+﻿Front End Curriculum
+
+1. HTML 5
+2. CSS 3
+3. Twitter Bootstrap
+4. Javascript
+5. jQuery
+6. AngularJS
+7. Yeoman
+8. Grunt
+9. Bower
+10. Jasmine
+11. Protractor 
+
+Detailed Course Curriculum for Front-End Training
+
+1. HTML 5
+    1. Introduction
+    2. Basic Tags
+    3. HTML table and lists
+    4. HTML forms and inputs
+    5. Advance HTML
+    6. Introduction to html5
+    7.  HTML5 new tags and elements
+    8. HTML5 New Form Elements
+    9. HTML5 Graphics
+    10. HTML5 Feature Detection and Drag and Drop
+    11. HTML5 Multimedia
+    12. SVG in HTML5
+    13. Geo Location in HTML5
+    14. Web Storage in HTML5
+    15. Application Cache in HTML5
+    16. Build a task in HTML5
+
+2. CSS 3
+    1. Introduction
+    2. Styling - Basic
+        1. Background
+        2. text
+        3. font
+        4. links
+        5. lists
+        6. tables
+        7. box model
+        8. positioning
+    3. Styling - Advanced
+        1. 2d transforms
+        2. 3d transforms
+        3. user interface
+        4. shadows
+        5. animations
+        6. transitions
+    4. Responsive
+        1. viewport
+        2. grid-view
+        3. images
+        4. videos
+        5. frameworks
+
+3. Twitter Bootstrap
+    1. Introduction
+    2. Get Started
+    3. Grid System
+    4. Fixed Layout
+    5. Fluid Layout
+    6. Responsive Layout
+    7. Typography
+    8. Tables
+    9. Lists
+    10. Forms
+    11. Images
+    12. Icons
+    13. Navs
+    14. Navbar
+    15. Panels
+    16. Breadcrumbs
+    17. Pagination
+    18. Labels & Badges
+    19. Progress Bars
+    20. Helper Classes
+    21. Miscellaneous
+
+4. Javascript
+    1. Basics
+        1. Introduction
+        2. Where To
+        3. Output
+        4. Syntax
+        5. Statements
+        6. Comments
+        7. Variables
+        8. Operators
+        9. Arithmetic
+        10. Assignment
+        11. Data Types
+        12. Functions
+        13. Objects
+        14. Scope
+        15. Events
+        16. Strings
+        17. String Methods
+        18. Numbers
+        19. Number Methods
+        20. Math
+        21. Dates
+        22. Date Formats
+        23. Date Methods
+        24. Arrays
+        25. Array Methods
+        26. Booleans
+        27. Comparisons
+        28. Conditions
+        29. Switch
+        30. Loop For
+        31. Loop While
+        32. Break
+        33. Type Conversion
+        34. RegExp
+        35. Errors
+        36. Debugging
+        37. Hoisting
+        38. Strict Mode
+        39. Style Guide
+        40. Best Practices
+        41. Mistakes
+        42. Performance
+        43. Reserved Words
+        44. JSON
+    2. Forms
+        1. Forms Validation
+    3. Objects
+        1. Object Definitions
+        2. Object Properties
+        3. Object Methods
+        4. Object Prototypes
+    4. Functions
+        1. Definitions
+        2. Parameters
+        3. Invocation
+        4. Closures
+    5. HTML DOM
+        1. DOM Intro
+        2. DOM Methods
+        3. DOM Document
+        4. DOM Elements
+        5. DOM HTML
+        6. DOM CSS
+        7. DOM Events
+        8. DOM EventListener
+        9. DOM Navigation
+        10. DOM Nodes
+        11. DOM Nodelist
+    6. BOM
+        1. Window
+        2. Screen
+        3. Location
+        4. History
+        5. Navigator
+        6. Popup Alert
+        7. Timing
+        8. Cookies
+
+5. jQuery
+    1. Overview
+    2. Basics
+    3. Selectors
+    4. Attributes
+    5. Traversing
+    6. CSS
+    7. DOM
+    8. Events
+    9. AJAX
+    10. Effects
+    11. Interactions
+    12. Widgets
+    13. Theming
+    14. Utilities
+    15. Plugins
+
+6. AngularJS
+    1. Introduction
+    2. Overview
+    3. Environment Setup
+    4. MVC Architecture
+    5. First Application
+    6. Directives
+    7. Expressions
+    8. Controllers
+    9. Filters
+    10. Tables
+    11. HTML DOM
+    12. Modules
+    13. Forms
+    14. Includes
+    15. AJAX
+    16. Views
+    17. Scopes
+    18. Services
+    19. Dependency Injection
+    20. Custom Directives
+    21. Internalization
+
+7. Yeoman
+
+8. Grunt
+
+9. Bower
+
+10. Jasmine
+
+11. Protractor
+
