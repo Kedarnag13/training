@@ -78,5 +78,18 @@ Detailed Course Curriculum for Back-End Training
     2. HTTP Methods
     3. Interacting using POSTMAN
     4. Creating JSON Requests.
-    5. Difference between JSON and XML
+    5. Differences between JSON and XML
     6. Serialization
+
+6. TDD / BDD
+    1. Introduction
+    2. Differences
+    3. Importance of Testing
+    4. Simple Examples of WHY, WHAT and HOW ?
+
+7. RSpec
+    1. Introduction
+    2. Setup
+    3. Basic Tests
+    4. RSpec Idioms
+    5. Cleaning and Refactoring
