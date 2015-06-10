@@ -1,0 +1,82 @@
+Back-End Curriculam
+
+1. Ruby
+2. Database
+3. ActiveRecord
+4. Rails
+5. Rails-API
+6. TDD / BDD
+7. RSpec
+8. Capybara
+9. Cucumber
+10. Capistrano / AWSAWS S3 / Heroku / Cloud Foundry
+
+Detailed Course Curriculum for Back-End Training
+
+1. Ruby
+    1. Introduction
+    2. Simple Examples
+    3. Strings
+    4. Regular Expressions
+    5. Arrays
+    6. Control Structures
+    7. Iterators
+    8. Simple Examples.
+    9. Methods
+    10. Classes
+    11. Inheritence
+    12. Modules
+    13. Variables
+        1. Global Variables
+        2. Instance Variables
+        3. Local Variables
+        4. Class Variables
+    14. Accessors
+    15. Objects
+
+2.  Database (Postgres)
+    1. Introduction
+    2. Features
+    3. Comparisons with other databases
+    4. SQL Languages
+        1. SQL syntax
+        2. Data Definition
+        3. Data Manipulation
+        4. Datatypes
+        5. Functions and Operators
+    5. Server Administration
+        1. Server Configuration
+        2. Client authentication
+        3. Manage Databases
+        4. Manage Roles
+
+3.  ActiveRecord
+    1. Introduction
+    2. Introduction to ORM
+    3. Creating ActiveRecord Models
+    4. CRUD Operations
+    5. Validations
+    6. ActiveRecord Callbacks
+    7. Migrations
+
+4. Rails
+    1. Introduction
+    2. MVC
+        1. Models
+        2. Views
+            1. Layouts and Rendering
+            2. Action View Form Helpers
+        3. Controllers
+            1. Routing
+    3. Rails Internationalization (I18n)
+    4. Action Mailer
+    5. Configuring Rails Application
+    6. Assets
+
+5. Rails-API
+    1. Introduction
+    2. HTTP Methods
+    3. Interacting using POSTMAN
+    4. Creating JSON Requests.
+    5. Difference between JSON and XML
+    6. Serialization
